@@ -111,7 +111,8 @@ To keep older links working, the original notebook paths are kept as **symlinks*
 ## Disclaimer
 This repository is intended for research and learning. Please comply with local laws and obtain proper consent before cloning or converting any voice.
 
-## Original README: Bark Voice Cloning 🐶 & Voice Cloning for Chinese Speech 🎶
+## Original README
+## Bark Voice Cloning 🐶 & Voice Cloning for Chinese Speech 🎶
 ### [简体中文](https://github.com/KevinWang676/Bark-Voice-Cloning/blob/main/README_zh.md)
 ## 1️⃣ Bark Voice Cloning
 
